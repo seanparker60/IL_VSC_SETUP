@@ -1,0 +1,5 @@
+<apex:page controller="FormAssemblyredirect" action="{!Buildredirect}">
+
+<p>Redirect</p>
+
+</apex:page>

@@ -14,6 +14,18 @@ deploy-options.json
 # LWC Jest coverage reports
 coverage/
 
+#General
+*.scss
+*.png
+*.svg
+*.css
+*.woff2
+*.woff
+*.eot
+*.ttf
+**/GraphicsPackNew
+**/SLDS202forLtng
+
 # Logs
 logs
 *.log
